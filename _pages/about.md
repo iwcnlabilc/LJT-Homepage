@@ -35,7 +35,7 @@ First-year PhD candidate at HKUST NLP Group. My research focuses on natural lang
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He — *NeurIPS 2023*. (Co-author)
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He — *NeurIPS 2023*. (Co-author)
 
-See the [Publications](/publications/) page for more details.
+See the [Publications]({{ site.baseurl }}/publications/) page for more details.
 
 ## Skills
 
