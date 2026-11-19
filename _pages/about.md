@@ -12,7 +12,7 @@ First-year PhD candidate at HKUST NLP Group. My research focuses on natural lang
 ## Academic Background
 
 - **Ph.D. in Computer Science (2024-Present)** — Hong Kong University of Science and Technology
-- **B.Eng. (2020-2024)** — Shanghai Jiao Tong University (graduated in June 2024)
+- **B.Eng. (2020-2024)** — Shanghai Jiao Tong University (SJTU); graduated in June 2024
 
 ## Research Experience
 
@@ -41,6 +41,9 @@ See the [Publications](/publications/) page for more details.
 
 - Natural Language Processing
 - Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Awards
 
